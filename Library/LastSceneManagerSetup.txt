@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/ITProtoLevelv1.unity
+- path: Assets/Scenes/ITProtoLevelv1.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
